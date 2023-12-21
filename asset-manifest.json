@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ishita/static/css/main.e04e44cd.css",
+    "main.js": "/ishita/static/js/main.5ce6ac12.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ishita/static/js/787.d4aba7ab.chunk.js",
+    "static/media/IMG_10.jpg": "/ishita/static/media/IMG_10.637d7e2799b4e6869333.jpg",
+    "static/media/IMG_9.jpg": "/ishita/static/media/IMG_9.5d372e18ef64ebe196b0.jpg",
+    "static/media/IMG_20231221_201704_349.jpg": "/ishita/static/media/IMG_20231221_201704_349.65d65a84649e678a3d15.jpg",
+    "static/media/IMG_20231221_201423_541.jpg": "/ishita/static/media/IMG_20231221_201423_541.97bebd698b1c66831a67.jpg",
+    "static/media/IMG_20231221_201455_091.jpg": "/ishita/static/media/IMG_20231221_201455_091.61d564c7b7fc8a33acba.jpg",
+    "static/media/IMG_20231221_201509_287.jpg": "/ishita/static/media/IMG_20231221_201509_287.5176c5b67070e2108568.jpg",
+    "static/media/IMG_20231221_201742_498_1.jpg": "/ishita/static/media/IMG_20231221_201742_498_1.cef8463b65704851a958.jpg",
+    "static/media/IMG_20231221_201437_035.jpg": "/ishita/static/media/IMG_20231221_201437_035.9d9937b7ed184d3a96bd.jpg",
+    "static/media/IMG_20231221_201418_096.jpg": "/ishita/static/media/IMG_20231221_201418_096.80810ac06f7632d161d1.jpg",
+    "static/media/IMG_20231221_201623_385.jpg": "/ishita/static/media/IMG_20231221_201623_385.ceaad1507afe20f6568a.jpg",
+    "index.html": "/ishita/index.html",
+    "main.e04e44cd.css.map": "/ishita/static/css/main.e04e44cd.css.map",
+    "main.5ce6ac12.js.map": "/ishita/static/js/main.5ce6ac12.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ishita/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04e44cd.css",
+    "static/js/main.5ce6ac12.js"
+  ]
+}
